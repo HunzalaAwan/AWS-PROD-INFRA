@@ -1,0 +1,7 @@
+prod-key
+tmp/
+prod-key.pub
+tmp/
+*.tfstate
+*.tfstate.backup
+.terraform/
