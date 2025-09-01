@@ -144,8 +144,6 @@ This repository contains Terraform code to provision a production-ready AWS infr
   Ensure ASG instances are healthy, security groups allow traffic, and Nginx is running.
 - **Target Group Unhealthy:**  
   Check user data in launch template, security group rules, and health check configuration.
-- **Git Issues:**  
-  Use `git pull origin main --allow-unrelated-histories` if histories differ.
 
 ---
 
